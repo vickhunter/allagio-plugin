@@ -1,0 +1,43 @@
+.devin/skills/allagio/SKILL.md
+  s_27702ffeb33526::t_61ed2de4b109b2 1-56
+LICENSE
+  s_27702ffeb33526::t_938d95b3b09c8c 1-202
+.claude-plugin/marketplace.json
+  s_1448ba6ec4fcaa::t_8c13b6874ce183 1-12
+.claude-plugin/plugin.json
+  s_1448ba6ec4fcaa::t_61edeab1566525 1-10
+.cursor-plugin/plugin.json
+  s_1448ba6ec4fcaa::t_36e9c364ed891f 1-11
+.mcp.json
+  s_1448ba6ec4fcaa::t_c947b35c5e509d 1-8
+README.md
+  s_1448ba6ec4fcaa::t_1965cf576e3d94 1-45
+mcp.json
+  s_1448ba6ec4fcaa::t_a677861c31b219 1-7
+skills/allagio/SKILL.md
+  s_1448ba6ec4fcaa::t_86c2ec54e1f026 1-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "936d0ed04d94e22e73f9758e109c19d861472fa5",
+  "prompts": {},
+  "sessions": {
+    "s_1448ba6ec4fcaa": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_1448ba6ec4fcaa",
+        "model": "unknown"
+      },
+      "human_author": "vickhunter <motricalavictor@gmail.com>"
+    },
+    "s_27702ffeb33526": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "carnation-viscose",
+        "model": "unknown"
+      },
+      "human_author": "vickhunter <motricalavictor@gmail.com>"
+    }
+  }
+}
