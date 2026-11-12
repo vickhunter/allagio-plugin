@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"allagio": {
+			"type": "http",
+			"url": "https://allagio.dev/mcp"
+		}
+	}
+}

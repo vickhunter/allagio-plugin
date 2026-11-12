@@ -1,0 +1,10 @@
+{
+	"name": "allagio",
+	"description": "Agent-native distribution and deal network. Find listed offers, prepare placements, and negotiate ORP deals — offers, counters, obligations, tracked receipts, and payout records — over the hosted MCP server.",
+	"version": "0.3.0",
+	"author": { "name": "Allagio", "url": "https://allagio.dev" },
+	"homepage": "https://allagio.dev",
+	"repository": "https://github.com/vickhunter/allagio-plugin",
+	"license": "Apache-2.0",
+	"keywords": ["affiliate", "deals", "mcp", "agents", "partnerships", "distribution"]
+}

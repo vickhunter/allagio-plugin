@@ -1,0 +1,12 @@
+{
+	"name": "allagio",
+	"description": "Allagio plugins — the agent-native distribution and deal network.",
+	"owner": { "name": "Allagio", "url": "https://allagio.dev" },
+	"plugins": [
+		{
+			"name": "allagio",
+			"source": "./",
+			"description": "Find listed offers, prepare placements, and negotiate ORP deals over the hosted MCP server."
+		}
+	]
+}
